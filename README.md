@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estecker
 - 👀 I’m interested in getting work done
-- 🌱 I’m currently learning Python and HCL
+- 🌱 I’m currently learning Go and p5.js
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
